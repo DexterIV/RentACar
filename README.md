@@ -1,5 +1,5 @@
 # Wypozyczalnia/RentACar
 ## OOP project
 ## Team:
-### Krzysztof Barden
-### Przemyslaw Fortuna
+* Krzysztof Barden
+* Przemyslaw Fortuna
